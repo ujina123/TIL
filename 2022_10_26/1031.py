@@ -7,12 +7,12 @@ import numpy as np
 from keras.models import load_model
 
 examples = [
-    ['study/2022_10_26/examples_img/7.png'],
-    ['study/2022_10_26/examples_img/9.png'],
-    ['study/2022_10_26/examples_img/1.png'],
+    ['2022_10_26/examples_img/7.png'],
+    ['2022_10_26/examples_img/9.png'],
+    ['2022_10_26/examples_img/1.png'],
 ]
 
-model_ = load_model('study/2022_10_26/cnn_mnist1026.h5')
+model_ = load_model('2022_10_26/cnn_mnist1026.h5')
 
 def greet(img):
     img_3d = img.reshape(-1, img.shape[0], img.shape[1])
