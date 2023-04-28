@@ -6,4 +6,6 @@
 
 ## Machine Learning
 * [PCA 이론 및 구현](https://github.com/ujina123/TIL/blob/master/PCA/PCA.ipynb)
-* [Reinforcement learning - 이론](https://github.com/ujina123/TIL/blob/master/Reinforcement%20learning/01_Basic.ipynb)
+* Reinforcement learning 
+  * [이론](https://github.com/ujina123/TIL/blob/master/Reinforcement%20learning/01_Basic.ipynb)
+  * [요약](https://github.com/ujina123/TIL/blob/master/Reinforcement%20learning/02_Summary.ipynb)
